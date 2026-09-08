@@ -54,8 +54,8 @@ house_price_project/
 ```
 
 ## Deployment
-Deploy using Streamlit Community Cloud after pushing the project folder to GitHub.
+The application is deployed using Streamlit Community Cloud.
 
 ## Links
 - GitHub Repository: https://github.com/Manish5679/house-price-prediction-ml
-- Live Streamlit App: Add after deployment
+- Live Streamlit App: https://house-price-prediction-ml-uhfetoflkcghelnkgaphhs.streamlit.app/
