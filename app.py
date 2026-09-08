@@ -11,7 +11,7 @@ def load_model():
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/Housing.csv")
+    return pd.read_csv("Housing.csv")
 
 model = load_model()
 df = load_data()
